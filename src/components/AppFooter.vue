@@ -5,7 +5,10 @@ const currentYear = new Date().toLocaleDateString('FR-fr', { year: 'numeric' });
 <template>
     <img src="@/assets/footer.png" alt="" class="opacity-25" />
     <div class="text-sm flex gap-4 justify-center items-center">
-        <div>Réalisé par <a href="https://thoanny.fr" target="_blank">Thoanny</a></div>
+        <div>
+            Réalisé par <a href="https://thoanny.fr" target="_blank">Thoanny</a> pour le
+            <a href="https://lebusmagique.fr" target="_blank">LBM</a>
+        </div>
         <a href="https://thoanny.fr/t-potes" target="_blank">T-potes</a>
         <a href="https://github.com/thoanny/gw2-noms-kodans" target="_blank">Source</a>
     </div>
