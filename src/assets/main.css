@@ -1,3 +1,29 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-image {
+    @apply bg-cover bg-fixed;
+    background: url('./background.jpg') no-repeat center center;
+}
+
+.bg-image:before {
+    @apply w-full h-full bg-black bg-opacity-70 fixed top-0 left-0 z-10;
+    content: '';
+}
+
+select {
+    @apply rounded bg-white text-black py-1 px-1 text-lg cursor-pointer;
+}
+
+button {
+    @apply w-10 h-10 inline-flex items-center justify-center border-2 border-white hover:bg-white hover:bg-opacity-10 rounded-full aspect-square;
+}
+
+a {
+    @apply font-semibold;
+}
+
+a:hover {
+    @apply underline;
+}

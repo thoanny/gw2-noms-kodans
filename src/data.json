@@ -22,7 +22,17 @@
             "Rafale",
             "Lavande",
             "Vallée",
-            "Colline"
+            "Colline",
+            "Cendre",
+            "Aube",
+            "Allaise",
+            "Acuité",
+            "Pourvoyeuse",
+            "Chercheuse",
+            "Lie",
+            "Bourrasque",
+            "Rumeur",
+            "Prophétesse"
         ],
         [
             "Aulne",
@@ -31,7 +41,6 @@
             "Souffle",
             "Lichen",
             "Moineau",
-            "Soleil",
             "Appui",
             "Aster",
             "Saut",
@@ -52,14 +61,24 @@
             "Chant marin",
             "Lahar",
             "Vent",
-            "Antre"
+            "Antre",
+            "Confort",
+            "Pic",
+            "Bonheur",
+            "Pourvoyeur",
+            "Chercheur",
+            "Coloris",
+            "Lupin",
+            "Ruisselet",
+            "Bosquet",
+            "Remède",
+            "Prophète"
         ],
         []
     ],
     "lastnames": [
         [
             "languissante",
-            "chaleureuse",
             "persistante",
             "ardente",
             "conductrice",
@@ -88,11 +107,22 @@
             "embrumée",
             "automnale",
             "patiente",
-            "tréflée"
+            "tréflée",
+            "délicate",
+            "vigilante",
+            "frémissante",
+            "déchiquetée",
+            "attentive",
+            "préoccupée",
+            "chamarrée",
+            "apaisante",
+            "amassante",
+            "glanante",
+            "curieuse",
+            "universelle"
         ],
         [
             "languissant",
-            "chaleureux",
             "persistant",
             "ardent",
             "conducteur",
@@ -114,7 +144,6 @@
             "décati",
             "songeur",
             "tumultueux",
-            "agité",
             "ombragé",
             "tempéré",
             "accidenté",
@@ -122,7 +151,20 @@
             "embrumé",
             "automnal",
             "patient",
-            "tréflé"
+            "tréflé",
+            "délicat",
+            "vigilant",
+            "frémissant",
+            "déchiqueté",
+            "attentif",
+            "préoccupé",
+            "chamarré",
+            "agité",
+            "apaisant",
+            "amassant",
+            "glanant",
+            "curieux",
+            "universel"
         ],
         [
             "calme",
@@ -141,7 +183,11 @@
             "torride",
             "habile",
             "aux lys",
-            "modeste"
+            "modeste",
+            "fugace",
+            "amène",
+            "tranquille",
+            "des vents"
         ]
     ]
 }
