@@ -32,7 +32,9 @@
             "Lie",
             "Bourrasque",
             "Rumeur",
-            "Prophétesse"
+            "Prophétesse",
+            "Crécerelle",
+            "Tisseuse"
         ],
         [
             "Aulne",
@@ -72,7 +74,11 @@
             "Ruisselet",
             "Bosquet",
             "Remède",
-            "Prophète"
+            "Prophète",
+            "Pré",
+            "Horizon",
+            "Hibou",
+            "Tisseur"
         ],
         []
     ],
@@ -119,7 +125,11 @@
             "amassante",
             "glanante",
             "curieuse",
-            "universelle"
+            "universelle",
+            "dissimulée",
+            "dégagée",
+            "informée",
+            "patrouillante"
         ],
         [
             "languissant",
@@ -164,7 +174,11 @@
             "amassant",
             "glanant",
             "curieux",
-            "universel"
+            "universel",
+            "dissimulé",
+            "dégagé",
+            "informé",
+            "patrouillant"
         ],
         [
             "calme",
@@ -187,7 +201,9 @@
             "fugace",
             "amène",
             "tranquille",
-            "des vents"
+            "des vents",
+            "aride",
+            "de cendres"
         ]
     ]
 }
